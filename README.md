@@ -1,2 +1,0 @@
-# ResponsivePage
-hello
